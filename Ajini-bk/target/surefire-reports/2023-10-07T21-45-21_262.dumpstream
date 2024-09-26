@@ -1,0 +1,5 @@
+# Created at 2023-10-07T21:45:21.765
+Boot Manifest-JAR contains absolute paths in classpath 'D:\PFE\Ajini-bk\Ajini-bk\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
